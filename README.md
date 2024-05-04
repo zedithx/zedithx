@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bulkify Android App**
 
-- 🌱 I’m currently learning **Flutter app development** and **Computer Vision**
+- 🌱 I’m currently learning **Ruby On Rails**, **Computer Vision**
 
 - 📫 How to reach me **aersijun@gmail.com**
 
