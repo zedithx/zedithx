@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zedithx" alt="zedithx" /></a> </p>
 
-- 🔭 I’m currently working on **Bulkify Android App**
+- 🔭 I’m currently working on **ML Webscraper, Computer Vision Mobile App**
 
 - 🌱 I’m currently learning **Ruby On Rails**, **Computer Vision**
 
