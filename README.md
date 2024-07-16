@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zedithx" alt="zedithx" /></a> </p>
 
-- 🔭 I’m currently working on **Fullstack application to streamline Refugee Verification processes and VR App on making remote rehabilitation possible**
+- 🔭 I’m currently working on a **Fullstack application to streamline Refugee Verification processes and a VR App on making remote rehabilitation possible**
 
 - 🌱 I’m currently learning **Ruby On Rails**, **VR** **and** **AWS Cloud Solutions**
 
