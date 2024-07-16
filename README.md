@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zedithx" alt="zedithx" /></a> </p>
 
-- 🔭 I’m currently working on **ML Webscraper, Computer Vision Mobile App**
+- 🔭 I’m currently working on ** Fullstack application to streamline Refugee Verification processes and VR App on making remote rehabilitation possible**
 
-- 🌱 I’m currently learning **Ruby On Rails**, **Computer Vision**
+- 🌱 I’m currently learning **Ruby On Rails**, **VR** **and** **AWS Cloud Solutions**
 
 - 📫 How to reach me **aersijun@gmail.com**
 
