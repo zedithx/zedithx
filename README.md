@@ -6,15 +6,15 @@ year master course in my exchange studies as well as studying for the AWS Soluti
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zedithx" alt="zedithx" /></a> </p>
 
-- 🔭 I’m currently working on an **application for a Startup Company and a VR App to make remote rehabilitation possible as part of my research assistant role**
+- 🔭 I’m currently working on an **AI Chatbot for a Startup Company and a VR App to make remote rehabilitation possible as part of my research assistant role**
 
-- 🌱 I’m currently learning **Ruby On Rails**, **VR** **and** **AWS Cloud Solutions**
+- 🌱 I’m currently learning **Networks in a virtualised/dockerised environment**, **ModelOps** **and** **AWS Cloud Solutions**
 
 - 📫 How to reach me **aersijun@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yang-si-jun-5360b7231](https://www.linkedin.com/in/yang-si-jun-5360b7231)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I'm looking for more internship opportunities for 2025 Jan to Sept**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
