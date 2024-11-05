@@ -6,7 +6,7 @@ year master course in my exchange studies as well as studying for the AWS Soluti
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zedithx" alt="zedithx" /></a> </p>
 
-- 🔭 I’m currently working on a **Telegram Bot to webscrape flight tickets and a VR App on making remote rehabilitation possible**
+- 🔭 I’m currently working on an **application for a Startup Company and a VR App to make remote rehabilitation possible as part of my research assistant role**
 
 - 🌱 I’m currently learning **Ruby On Rails**, **VR** **and** **AWS Cloud Solutions**
 
