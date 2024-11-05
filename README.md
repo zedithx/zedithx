@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Si Jun</h1>
-<h3 align="center">I’m a passionate full stack developer that is experienced in web and app development. Looking to explore DevOps in the upcoming semester.</h3>
+<h3 align="center">I’m a passionate full stack developer that is experienced in web and app development. Currently exploring DevOps in the current semester, pursuing a final
+year master course in my exchange studies as well as studying for the AWS Solutions Architect Certification</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedithx&label=Profile%20views&color=0e75b6&style=flat" alt="zedithx" /> </p>
 
