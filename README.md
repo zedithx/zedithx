@@ -6,7 +6,7 @@ year master course in my exchange studies as well as studying for the AWS Soluti
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zedithx" alt="zedithx" /></a> </p>
 
-- 🔭 I’m currently working on an **AI Chatbot for a Startup Company and a VR App to make remote rehabilitation possible as part of my research assistant role**
+- 🔭 I’m currently working on an **AI Chatbot for a Startup Company and Devops for serverless architecture**
 
 - 🌱 I’m currently learning **Networks in a virtualised/dockerised environment**, **ModelOps** **and** **AWS Cloud Solutions**
 
