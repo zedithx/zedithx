@@ -8,13 +8,13 @@ year master course in my exchange studies as well as studying for the AWS Soluti
 
 - 🔭 I’m currently working on an **AI Chatbot for a Startup Company and Devops for serverless architecture**
 
-- 🌱 I’m currently learning **Networks in a virtualised/dockerised environment**, **ModelOps** **and** **AWS Cloud Solutions**
+- 🌱 I’m currently learning **OpenTelemetry**, **Writing Scalable and Maintainable Code** **and** **AWS Cloud Solutions**
 
 - 📫 How to reach me **aersijun@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yang-si-jun-5360b7231](https://www.linkedin.com/in/yang-si-jun-5360b7231)
 
-- ⚡ Fun fact **I'm looking for more internship opportunities for 2025 Jan to Sept**
+- ⚡ Fun fact **I'm looking for more internship opportunities for 2025 June to Sept**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
