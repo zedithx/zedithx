@@ -6,7 +6,7 @@ an automation Slack Bot to improve our operation processes here.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zedithx" alt="zedithx" /></a> </p>
 
-- 🔭 I’m currently working on ** Automation Slack Bot to optimise Ops processes**
+- 🔭 I’m currently working on **Automation Slack Bot to optimise Ops processes**
 
 - 🌱 I’m currently learning the course for **AWS Cloud Solutions Architect**
 
