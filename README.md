@@ -14,7 +14,7 @@ an automation Slack Bot to improve our operation processes here.</h3>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yang-si-jun-5360b7231](https://www.linkedin.com/in/yang-si-jun-5360b7231)
 
-- ⚡ Fun fact **I love growth. I make a commitment to be improving myself in something different in every period of my life, outside of coding. For this period, it is bowling. Hit me up if you want to go bowling together and improve with me :)**
+- ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life, outside of coding. For this period, it is bowling. Hit me up if you want to go bowling together and improve with me :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
