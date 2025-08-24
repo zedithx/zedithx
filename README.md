@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Si Jun</h1>
-<h3 align="center">I’m a passionate full stack developer that is experienced in web and app development. Currently learning DevOps in my current internship at Changi Airport Group, where I have completed
-an automation Slack Bot to improve our operation processes here.</h3>
+<h3 align="center">I’m a passionate full stack developer/SRE/DevOps that is experienced in web, app development, cloud technologies, and infra provisioning and automation. I love to build, but I also love the process of designing/scaling systems and automation, and currently other randomly little things like getting good at linux and eventually wanting to install my own archlinux distro and customising it to become my Kubernetes Homelab. But for now, abit busy with school, part time internship at Bytedance and developing a socialising app, which I hope can impact the world in a positive way. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedithx&label=Profile%20views&color=0e75b6&style=flat" alt="zedithx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zedithx" alt="zedithx" /></a> </p>
 
-- 🔭 I’m currently working on **Automation Slack Bot to optimise Ops processes**
+- 🔭 I’m currently working on **Tangled, a socialising app that aims to replicate the natural process of forming friendships, creating more authentic bonds**
 
-- 🌱 I’m currently learning the course for **AWS Cloud Solutions Architect**
+- 🌱 I’m currently learning Devops, SRE related items such as Kubernetes and more AWS Cloud Technologies
 
 - 📫 How to reach me **aersijun@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yang-si-jun-5360b7231](https://www.linkedin.com/in/yang-si-jun-5360b7231)
 
-- ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life, outside of coding. For this period, it is bowling. Hit me up if you want to go bowling together and improve with me :)**
+- ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life, outside of coding. For this period, I am pushing content creation on Tiktok @zedithx and also developing my socialising app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
