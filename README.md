@@ -31,4 +31,9 @@ But for now, I'm busy with school, part time internship as Backend SRE at Byteda
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zedithx&" alt="zedithx" /></p>
 
  <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
