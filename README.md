@@ -29,3 +29,6 @@ But for now, I'm busy with school, part time internship as Backend SRE at Byteda
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zedithx&show_icons=true&locale=en" alt="zedithx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zedithx&" alt="zedithx" /></p>
+
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
