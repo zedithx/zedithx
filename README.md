@@ -33,11 +33,11 @@ But for now, I'm busy with school, part time internship as Backend SRE at Byteda
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 52 mins   █████████████████░░░░░░░░   68.37 %
-Python       51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Bash         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+TypeScript   5 hrs 15 mins   █████████████████▓░░░░░░░   70.62 %
+Bash         53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Python       51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
