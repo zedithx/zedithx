@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Si Jun</h1>
 <h3 align="center">I’m a passionate full stack developer/SRE/DevOps that is experienced in web, app development, cloud technologies, and infra provisioning and automation. I love to build, but I also love the process of designing/scaling systems and automation </br></br>
-But for now, I'm busy with school, part time internship as Backend SRE at Bytedance and current developing a socialising app, which I hope can impact the world in a positive way. </h3>
+But for now, I'm busy with school, part time internship as Backend Software Engineer(SRE) at Bytedance and current developing a socialising app, which I hope can impact the world in a positive way. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedithx&label=Profile%20views&color=0e75b6&style=flat" alt="zedithx" /> </p>
 
@@ -8,13 +8,13 @@ But for now, I'm busy with school, part time internship as Backend SRE at Byteda
 
 - 🔭 I’m currently working on **Tangled, a socialising app that aims to replicate the natural process of forming friendships, creating more authentic bonds**
 
-- 🌱 I’m currently learning Devops, SRE related items such as Kubernetes and more AWS Cloud Technologies
+- 🌱 I’m currently learning SRE related items and System Design in greater depth, as well as how to make my startup progress
 
 - 📫 How to reach me **aersijun@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yang-si-jun-5360b7231](https://www.linkedin.com/in/yang-si-jun-5360b7231)
 
-- ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life, outside of coding. For this period, I am pushing content creation on Tiktok @zedithx and also developing my socialising app**
+- ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life, outside of coding. For this period, I am reading DDIA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
