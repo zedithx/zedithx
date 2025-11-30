@@ -33,11 +33,11 @@ But for now, I'm busy with school, part time internship as Backend Software Engi
  <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 24 mins   ███████████████░░░░░░░░░░   60.49 %
-TypeScript   1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-Markdown     41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Bash         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Git Config   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Python       4 hrs 58 mins   ███████████████░░░░░░░░░░   59.99 %
+TypeScript   1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
+Markdown     41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Bash         32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Text         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 ```
 
 <!--END_SECTION:waka-->
