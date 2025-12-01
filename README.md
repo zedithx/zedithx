@@ -21,10 +21,6 @@ But for now, I'm busy with school, part time internship as Backend Software Engi
 <a href="https://linkedin.com/in/yang si jun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yang si jun" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zedithx&show_icons=true&locale=en&layout=compact" alt="zedithx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zedithx&show_icons=true&locale=en" alt="zedithx" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zedithx&" alt="zedithx" /></p>
 
  <!--START_SECTION:waka-->
