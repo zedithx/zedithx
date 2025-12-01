@@ -20,6 +20,7 @@ But for now, I'm busy with school, part time internship as Backend Software Engi
 <p align="left">
 <a href="https://linkedin.com/in/yang si jun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yang si jun" height="30" width="40" /></a>
 </p>
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zedithx&" alt="zedithx" /></p>
 
