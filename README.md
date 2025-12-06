@@ -23,15 +23,3 @@ But for now, I'm busy with school, part time internship as Backend Software Engi
 </br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zedithx&" alt="zedithx" /></p>
-
- <!--START_SECTION:waka-->
-
-```txt
-Python       3 hrs 24 mins   ███████████▒░░░░░░░░░░░░░   44.72 %
-TypeScript   1 hr 50 mins    ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-Markdown     43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Bash         31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Git Config   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-```
-
-<!--END_SECTION:waka-->
