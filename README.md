@@ -4,7 +4,7 @@ But for now, I'm back to school and currently developing my socialising app, whi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedithx&label=Profile%20views&color=0e75b6&style=flat" alt="zedithx" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-phi-livid.vercel.app/?username=zedithx)](https://github.com/zedithx/github-profile-trophy)
 
 - 🔭 I’m currently working on **Tangled, a socialising app that aims to replicate the natural process of forming friendships, creating more authentic bonds**
 
