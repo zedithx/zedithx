@@ -14,7 +14,7 @@ But for now, I'm back to school and currently developing my socialising app, whi
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yang-si-jun-5360b7231](https://www.linkedin.com/in/yang-si-jun-5360b7231)
 
-- ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life, outside of coding. For this period, I am studying for the Certified Kubernetes Administrator Certification**
+- ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life. For this period, I am studying for the Certified Kubernetes Administrator Certification**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
