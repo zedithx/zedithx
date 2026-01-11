@@ -8,8 +8,6 @@ But for now, I'm back to school and currently developing my socialising app, whi
 
 - 🔭 I’m currently working on **Tangled, a socialising app that aims to replicate the natural process of forming friendships, creating more authentic bonds**
 
-- 🌱 I’m currently making my portfolio website as well
-
 - 📫 How to reach me **aersijun@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yang-si-jun-5360b7231](https://www.linkedin.com/in/yang-si-jun-5360b7231)
