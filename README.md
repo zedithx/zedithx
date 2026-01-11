@@ -12,8 +12,6 @@ But for now, I'm back to school and currently developing my socialising app, whi
 
 - ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life. For this period, I am studying for the Certified Kubernetes Administrator Certification**
 
-[![Zedithx's GitHub stats](https://github-readme-stats.vercel.app/api?username=zedithx)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yang si jun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yang si jun" height="30" width="40" /></a>
