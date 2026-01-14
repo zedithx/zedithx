@@ -8,7 +8,7 @@ But for now, I'm back to school and currently developing my socialising app, whi
 
 - 📫 How to reach me **aersijun@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yang-si-jun-5360b7231](https://www.linkedin.com/in/yang-si-jun-5360b7231)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/yang-si-jun-5360b7231)
 
 - ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life. For this period, I am studying for the Certified Kubernetes Administrator Certification**
 
