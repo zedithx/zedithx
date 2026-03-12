@@ -4,13 +4,12 @@ But for now, I'm back to school and currently developing my socialising app, whi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedithx&label=Profile%20views&color=0e75b6&style=flat" alt="zedithx" /> </p>
 
-- 🔭 I’m currently working on **[Tangled](https://www.tangledsocial.com), a socialising app that aims to replicate the natural process of forming friendships, creating more authentic bonds**
-
+- 🔭 I’m currently working on **[Tangled](https://www.tangledsocial.com), an AI-powered social platform designed to seamlessly transition online conversations into lasting offline connections, as well as **[SnapRecall](https://important-tracker.vercel.app/), a personal AI memory assistant. 
 - 📫 How to reach me **aersijun@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/yang-si-jun-5360b7231)
 
-- ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life. For this period, I am studying for the Certified Kubernetes Administrator Certification**
+- ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life. For this period, I am building many many projects and trying to become a vibecoding god**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
