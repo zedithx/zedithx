@@ -4,13 +4,13 @@ But for now, I'm back to school and currently developing my socialising app, whi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedithx&label=Profile%20views&color=0e75b6&style=flat" alt="zedithx" /> </p>
 
-- 🔭 I’m currently working on **[Tangled](https://www.tangledsocial.com)**, an AI-powered social platform that enables young professionals to discover their people of the same interests and vibes, and seamlessly transitioning and solidifying to real-life connections. We currently have 900 apple users on our app, and will be releasing our app to the playstore soon!
+- 🔭 I’m currently and mainly working on **[Tangled](https://www.tangledsocial.com)**, a social platform that enables young professionals to discover their people of the same interests and vibes, and help seamlessly transition conversations to real-life connections. We currently have 900+ users on our app from the appstore, and will be releasing our app to the playstore soon!
 
 - 📫 How to reach me **aersijun@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/yang-si-jun-5360b7231) / [Website](https://www.zedithx.com)
  
-- ⚡ Fun fact: **I love growth. I make a commitment to be improving myself in something different in every period of my life. For this period, I am building many many projects and trying to become a vibecoding god**
+- ⚡ Fun fact: **I love growth. I make a commitment to improve myself in something different in every period of my life. For this period, I am trying to run and hike consistently!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
