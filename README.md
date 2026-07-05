@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Si Jun</h1>
-<h3 align="center">I’m a passionate full stack developer/SRE/DevOps that is experienced in web, app development, cloud technologies, and infra provisioning and automation. I love to build, but I also love the process of designing/scaling systems and automation </br></br>
-But for now, I'm back to school and currently developing my socialising app, which I hope can impact the world in a positive way. </h3>
+<h3 align="center">I’m a passionate full stack developer/SRE/DevOps that is experienced in Web, App Development, Cloud Technologies, Infrastructure and Automation. I love to build, but I also love the process of designing/scaling systems and automating work</br></br>
+Currently I'm working as a Site Reliability Engineer full-time at ByteDance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedithx&label=Profile%20views&color=0e75b6&style=flat" alt="zedithx" /> </p>
 
