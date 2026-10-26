@@ -4,7 +4,7 @@ Currently I'm working as a Site Reliability Engineer full-time at ByteDance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedithx&label=Profile%20views&color=0e75b6&style=flat" alt="zedithx" /> </p>
 
-- 🔭 I’m currently and mainly working on **[Tangled](https://www.tangledsocial.com)**, a social platform that enables young professionals to discover their people of the same interests and vibes, and help seamlessly transition conversations to real-life connections. We currently have 2000+ users on our app from the appstore, and will be releasing our app to the playstore soon!
+- 🔭 I’m currently and mainly working on **[Tangled](https://www.tangledsocial.com)**, a social platform that enables young professionals to discover their people of the same interests and vibes, and help seamlessly transition conversations to real-life connections. We currently have 4000+ users on appstore/playstore!
 
 - 📫 How to reach me **aersijun@gmail.com**
 
